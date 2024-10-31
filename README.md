@@ -1,6 +1,6 @@
 # Indoor-Localization-using-Fingerprinting-CSI-and-TinyML-
 Localización en espacios cerrados utilizando fingerprinting y TinyML
-Aquí tienes una estructura detallada para el archivo `README.md` del proyecto en el **main** del repositorio, dirigida a los usuarios que quieran utilizar **Edge Impulse** con la **XIAO ESP32S3** y **TinyML**:
+Aquí encontrarás una estructura detallada del proyecto dirigida a los usuarios que quieran utilizar **Edge Impulse** con la **XIAO ESP32S3** y **TinyML**:
 
 ---
 
