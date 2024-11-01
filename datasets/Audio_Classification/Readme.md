@@ -1,6 +1,3 @@
-Aquí tienes el README adaptado para el uso del dataset de "Running Faucet" en Edge Impulse. Esto guiará a los usuarios a integrar el dataset para entrenar un modelo de detección de audio de sonidos de agua.
-
----
 
 # Clasificación de Audio con Dataset de "Running Faucet"
 
