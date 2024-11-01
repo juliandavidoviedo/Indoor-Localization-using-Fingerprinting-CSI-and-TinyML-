@@ -21,6 +21,7 @@ Este documento detalla el proceso de trabajo en **Edge Impulse** para entrenar y
 1. Dirígete a [Edge Impulse](https://www.edgeimpulse.com/) y selecciona **Sign Up**.
 2. Ingresa tus datos o regístrate usando cuentas de Google o GitHub.
 3. Una vez registrado, accede a tu perfil y configura tu información de usuario.  
+![image](https://github.com/user-attachments/assets/997548eb-be9c-49f5-a9ac-f4cc86a06ba4)
 
    > *Sugerencia*: Puedes incluir una imagen del proceso de registro en esta sección para facilitar la navegación a usuarios nuevos.
 
