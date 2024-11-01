@@ -99,7 +99,7 @@ Cada carpeta contiene información y pasos para facilitar la reproducción del p
 ## Configuración del Hardware
 
 1. **Conexiones del Sensor**:  
-   Conecta los sensores a los pines correctos de la **XIAO ESP32S3**. Consulta el esquema en [docs/connections.png](./docs/connections.png) para ver el diagrama.
+   Conecta los sensores a los pines correctos de la **XIAO ESP32S3**. Consulta el esquema en [docs/connections.jpg](./docs/connections.jpg) para ver el diagrama.
 
 2. **Alimentación**:  
    La XIAO ESP32S3 puede alimentarse desde el puerto USB; asegúrate de que los sensores tengan la potencia correcta.
